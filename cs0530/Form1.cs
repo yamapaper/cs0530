@@ -25,14 +25,7 @@ namespace cs0530
             {
                 vy = -vy;
             }
-            else if (label1.Left >= 763)
-            {
-                vx = -vx;
-            }
-            else if (label1.Top >= 435)
-            {
-                vy = -vy;
-            }
+            
         }
 
         private void label1_Click(object sender, EventArgs e)
